@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../../../../../Wwise-Projects/No Quieras Olvidarme</ProjectRoot>
+		<SourceFilesRoot>../../../../../Wwise-Projects/No Quieras Olvidarme/.cache/Android</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../Wwise-Projects/No Quieras Olvidarme/GeneratedSoundBanks/Android</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{F60F5385-0EE2-1BAF-6D4C-55223B26150F}">
+			<ShortName>General</ShortName>
+			<Path>133642231.bnk</Path>
+			<Media>
+				<File Id="83444313" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Shotgun\Shotgun-001.wav</ShortName>
+					<CachePath>SFX/Shotgun/Shotgun-001_BF8B4D0A.wem</CachePath>
+				</File>
+				<File Id="285172445" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pistol\Pistol-002.wav</ShortName>
+					<CachePath>SFX/Pistol/Pistol-002_74E4717D.wem</CachePath>
+				</File>
+				<File Id="326332570" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Estilo The Coat.wav</ShortName>
+					<CachePath>SFX/Estilo The Coat_E12CA538.wem</CachePath>
+				</File>
+				<File Id="385970773" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Encuentro Hermano.wav</ShortName>
+					<CachePath>SFX/Encuentro Hermano_E12CA538.wem</CachePath>
+				</File>
+				<File Id="608419484" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pistol\Pistol-003.wav</ShortName>
+					<CachePath>SFX/Pistol/Pistol-003_EC205B35.wem</CachePath>
+				</File>
+				<File Id="634800145" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The World Spins.wav</ShortName>
+					<CachePath>SFX/The World Spins_E12CA538.wem</CachePath>
+				</File>
+				<File Id="830480918" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Shotgun\Shotgun-003.wav</ShortName>
+					<CachePath>SFX/Shotgun/Shotgun-003_4F829571.wem</CachePath>
+				</File>
+				<File Id="843393935" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pistol\Pistol-004.wav</ShortName>
+					<CachePath>SFX/Pistol/Pistol-004_14B9685A.wem</CachePath>
+				</File>
+				<File Id="849086895" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Chopin Valse Brillante Op.34 No.2.wav</ShortName>
+					<CachePath>SFX/Chopin Valse Brillante Op.34 No.2_E12CA538.wem</CachePath>
+				</File>
+				<File Id="914150445" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pistol\Pistol-005.wav</ShortName>
+					<CachePath>SFX/Pistol/Pistol-005_1C87736D.wem</CachePath>
+				</File>
+				<File Id="938907202" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pistol\Pistol-006.wav</ShortName>
+					<CachePath>SFX/Pistol/Pistol-006_F82F0FAC.wem</CachePath>
+				</File>
+				<File Id="959770918" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Shotgun\Shotgun-002.wav</ShortName>
+					<CachePath>SFX/Shotgun/Shotgun-002_DE2194F6.wem</CachePath>
+				</File>
+				<File Id="1050000310" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pistol\Pistol-001.wav</ShortName>
+					<CachePath>SFX/Pistol/Pistol-001_8178C3CA.wem</CachePath>
+				</File>
+			</Media>
+			<Plugins>
+				<Custom>
+					<Plugin Id="16895635" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="25770860" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="34470787" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="122730780" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="131753888" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="142762027" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="192404086" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="207542096" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="212871231" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="236908278" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="252984666" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="264400274" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="272151178" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="309117714" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="311829593" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="325097492" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="325490943" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="327094975" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="377943960" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="397697253" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="403963438" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="413761079" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="444725131" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="485909250" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="511645045" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="549984445" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="575716335" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="595037920" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="605523355" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="636321145" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="650562124" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="703619223" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="720003256" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="762478332" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="811064193" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="935550136" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="943871466" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="958958033" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="973103105" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="982452590" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="987467253" Name="Echoes_Linear (Custom)" LibName="Wwise Delay" LibId="6946819"/>
+					<Plugin Id="991496643" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+					<Plugin Id="995369466" Name="Pitch Shifter (Custom)" LibName="Wwise Pitch Shifter" LibId="8912899"/>
+					<Plugin Id="1040523347" Name="Time Stretch (Custom)" LibName="Wwise Time Stretch" LibId="8519683"/>
+				</Custom>
+				<ShareSets>
+					<Plugin Id="2653529179" Name="Three_Voices" LibName="Wwise Harmonizer" LibId="9043971"/>
+				</ShareSets>
+			</Plugins>
+			<Events>
+				<Event Id="3222758877" Name="Intro_ExitCue"/>
+				<Event Id="169558519" Name="Play_Guns">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="688956056" Id="324443136" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="285172445"/>
+								<MediaRef Id="608419484"/>
+								<MediaRef Id="843393935"/>
+								<MediaRef Id="914150445"/>
+								<MediaRef Id="938907202"/>
+								<MediaRef Id="1050000310"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="688956056" Id="51683977"/>
+							<MediaRefs>
+								<MediaRef Id="83444313"/>
+								<MediaRef Id="830480918"/>
+								<MediaRef Id="959770918"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2932040671" Name="Play_Music">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="804823466" Id="3402710902"/>
+							<MediaRefs>
+								<MediaRef Id="326332570"/>
+							</MediaRefs>
+							<PluginRefs>
+								<Custom>
+									<PluginRef Id="122730780"/>
+									<PluginRef Id="192404086"/>
+									<PluginRef Id="311829593"/>
+									<PluginRef Id="413761079"/>
+									<PluginRef Id="444725131"/>
+									<PluginRef Id="485909250"/>
+									<PluginRef Id="511645045"/>
+									<PluginRef Id="811064193"/>
+									<PluginRef Id="973103105"/>
+									<PluginRef Id="987467253"/>
+								</Custom>
+								<ShareSets>
+									<PluginRef Id="2653529179"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="804823466" Id="2463664624"/>
+							<MediaRefs>
+								<MediaRef Id="849086895"/>
+							</MediaRefs>
+							<PluginRefs>
+								<Custom>
+									<PluginRef Id="25770860"/>
+									<PluginRef Id="207542096"/>
+									<PluginRef Id="264400274"/>
+									<PluginRef Id="272151178"/>
+									<PluginRef Id="325097492"/>
+									<PluginRef Id="549984445"/>
+									<PluginRef Id="575716335"/>
+									<PluginRef Id="595037920"/>
+									<PluginRef Id="605523355"/>
+									<PluginRef Id="995369466"/>
+								</Custom>
+								<ShareSets>
+									<PluginRef Id="2653529179"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="804823466" Id="3363523641"/>
+							<MediaRefs>
+								<MediaRef Id="385970773"/>
+							</MediaRefs>
+							<PluginRefs>
+								<Custom>
+									<PluginRef Id="34470787"/>
+									<PluginRef Id="142762027"/>
+									<PluginRef Id="309117714"/>
+									<PluginRef Id="325490943"/>
+									<PluginRef Id="377943960"/>
+									<PluginRef Id="636321145"/>
+									<PluginRef Id="650562124"/>
+									<PluginRef Id="703619223"/>
+									<PluginRef Id="762478332"/>
+									<PluginRef Id="982452590"/>
+								</Custom>
+								<ShareSets>
+									<PluginRef Id="2653529179"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="804823466" Id="3084626518"/>
+							<MediaRefs>
+								<MediaRef Id="634800145"/>
+							</MediaRefs>
+							<PluginRefs>
+								<Custom>
+									<PluginRef Id="16895635"/>
+									<PluginRef Id="212871231"/>
+									<PluginRef Id="236908278"/>
+									<PluginRef Id="252984666"/>
+									<PluginRef Id="327094975"/>
+									<PluginRef Id="397697253"/>
+									<PluginRef Id="403963438"/>
+									<PluginRef Id="935550136"/>
+									<PluginRef Id="943871466"/>
+									<PluginRef Id="958958033"/>
+								</Custom>
+								<ShareSets>
+									<PluginRef Id="2653529179"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2696756348" Name="Reset_Panning"/>
+				<Event Id="452547817" Name="STOP_ALL"/>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="1006694123" Name="Music_Volume"/>
+				<GameParameter Id="1564184899" Name="Sfx_Volume"/>
+				<GameParameter Id="1820302072" Name="Panning"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="804823466" Name="Song">
+					<States>
+						<State Id="748895195" Name="None"/>
+						<State Id="2463664624" Name="Chopin"/>
+						<State Id="3084626518" Name="Twin_Peaks"/>
+						<State Id="3363523641" Name="Strings"/>
+						<State Id="3402710902" Name="Herrmann"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="688956056" Name="Guns">
+					<Switches>
+						<Switch Id="51683977" Name="Shotgun"/>
+						<Switch Id="324443136" Name="Pistol"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{158BF5A5-21A0-2C44-343B-753662273F00}">
+			<ShortName>Init</ShortName>
+			<Path>1355168291.bnk</Path>
+			<Plugins>
+				<Custom>
+					<Plugin Id="690266126" Name="Compressor (Custom)" LibName="Wwise Compressor" LibId="7077891"/>
+					<Plugin Id="715394686" Name="Recorder (Custom)" LibName="Wwise Recorder" LibId="8650755"/>
+				</Custom>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus">
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="690266126"/>
+							<PluginRef Id="715394686"/>
+						</Custom>
+					</PluginRefs>
+				</Bus>
+			</Busses>
+			<GameParameters>
+				<GameParameter Id="1006694123" Name="Music_Volume"/>
+				<GameParameter Id="1564184899" Name="Sfx_Volume"/>
+				<GameParameter Id="1820302072" Name="Panning"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="804823466" Name="Song">
+					<States>
+						<State Id="748895195" Name="None"/>
+						<State Id="2463664624" Name="Chopin"/>
+						<State Id="3084626518" Name="Twin_Peaks"/>
+						<State Id="3363523641" Name="Strings"/>
+						<State Id="3402710902" Name="Herrmann"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="688956056" Name="Guns">
+					<Switches>
+						<Switch Id="51683977" Name="Shotgun"/>
+						<Switch Id="324443136" Name="Pistol"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{84DB96E1-6E0F-E7B1-7867-2110E4920234}</FileHash>
+</SoundBanksInfo>

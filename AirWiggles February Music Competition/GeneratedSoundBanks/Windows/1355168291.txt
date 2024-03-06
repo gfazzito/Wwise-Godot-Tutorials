@@ -1,0 +1,21 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	804823466	Song			\Default Work Unit\Song	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Song			
+	2463664624	Chopin	Song			
+	3084626518	Twin_Peaks	Song			
+	3363523641	Strings	Song			
+	3402710902	Herrmann	Song			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Effect plug-ins	ID	Name	Type				Notes
+	690266126	Compressor (Custom)	Wwise Compressor			
+	715394686	Recorder (Custom)	Wwise Recorder			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

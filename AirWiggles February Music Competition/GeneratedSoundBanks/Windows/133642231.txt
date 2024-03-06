@@ -1,0 +1,100 @@
+Event	ID	Name			Wwise Object Path	Notes
+	169558519	Play_Guns			\Default Work Unit\Play_Guns	
+	452547817	STOP_ALL			\Default Work Unit\STOP_ALL	
+	2696756348	Reset_Panning			\Default Work Unit\Panning\Reset_Panning	
+	2932040671	Play_Music			\Default Work Unit\Play_Music	
+	3222758877	Intro_ExitCue			\Default Work Unit\Panning\Intro_ExitCue	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	688956056	Guns			\Default Work Unit\Guns	
+
+Switch	ID	Name	Switch Group			Notes
+	51683977	Shotgun	Guns			
+	324443136	Pistol	Guns			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	804823466	Song			\Default Work Unit\Song	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Song			
+	2463664624	Chopin	Song			
+	3084626518	Twin_Peaks	Song			
+	3363523641	Strings	Song			
+	3402710902	Herrmann	Song			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1006694123	Music_Volume			\Default Work Unit\Music_Volume	
+	1564184899	Sfx_Volume			\Default Work Unit\Sfx_Volume	
+	1820302072	Panning			\Default Work Unit\Panning	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	488320050	Music_Loop_StretchedMusic_Panning			\Default Work Unit\Music_Loop_StretchedMusic_Panning	
+	756146637	MusicLoop_StretcheMusic01_RandomPitch			\Default Work Unit\MusicLoop_StretcheMusic01_RandomPitch	
+
+Modulator Time	ID	Name			Wwise Object Path	Notes
+	139444098	MusicLoop_TimeStretch_RandomStretch			\Default Work Unit\MusicLoop_TimeStretch_RandomStretch	
+	640048302	MusicIntro_ExitCue			\Default Work Unit\MusicIntro_ExitCue	
+	1013706095	MusicLoop_EntryCue			\Default Work Unit\MusicLoop_EntryCue	
+
+Effect plug-ins	ID	Name	Type				Notes
+	16895635	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	25770860	Echoes_Linear (Custom)	Wwise Delay			
+	34470787	Time Stretch (Custom)	Wwise Time Stretch			
+	122730780	Time Stretch (Custom)	Wwise Time Stretch			
+	131753888	Time Stretch (Custom)	Wwise Time Stretch			
+	142762027	Time Stretch (Custom)	Wwise Time Stretch			
+	192404086	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	207542096	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	212871231	Time Stretch (Custom)	Wwise Time Stretch			
+	236908278	Time Stretch (Custom)	Wwise Time Stretch			
+	252984666	Echoes_Linear (Custom)	Wwise Delay			
+	264400274	Time Stretch (Custom)	Wwise Time Stretch			
+	272151178	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	309117714	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	311829593	Time Stretch (Custom)	Wwise Time Stretch			
+	325097492	Time Stretch (Custom)	Wwise Time Stretch			
+	325490943	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	327094975	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	377943960	Time Stretch (Custom)	Wwise Time Stretch			
+	397697253	Echoes_Linear (Custom)	Wwise Delay			
+	403963438	Time Stretch (Custom)	Wwise Time Stretch			
+	413761079	Echoes_Linear (Custom)	Wwise Delay			
+	444725131	Echoes_Linear (Custom)	Wwise Delay			
+	485909250	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	511645045	Time Stretch (Custom)	Wwise Time Stretch			
+	549984445	Time Stretch (Custom)	Wwise Time Stretch			
+	575716335	Time Stretch (Custom)	Wwise Time Stretch			
+	595037920	Echoes_Linear (Custom)	Wwise Delay			
+	605523355	Echoes_Linear (Custom)	Wwise Delay			
+	636321145	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	650562124	Time Stretch (Custom)	Wwise Time Stretch			
+	703619223	Echoes_Linear (Custom)	Wwise Delay			
+	720003256	Time Stretch (Custom)	Wwise Time Stretch			
+	762478332	Echoes_Linear (Custom)	Wwise Delay			
+	811064193	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	935550136	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	943871466	Time Stretch (Custom)	Wwise Time Stretch			
+	958958033	Echoes_Linear (Custom)	Wwise Delay			
+	973103105	Time Stretch (Custom)	Wwise Time Stretch			
+	982452590	Echoes_Linear (Custom)	Wwise Delay			
+	987467253	Echoes_Linear (Custom)	Wwise Delay			
+	991496643	Time Stretch (Custom)	Wwise Time Stretch			
+	995369466	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	1040523347	Time Stretch (Custom)	Wwise Time Stretch			
+	2653529179	Three_Voices	Wwise Harmonizer			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	83444313	Shotgun-001	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Shotgun\Shotgun-001_BF8B4D0A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Shotgun\Shotgun-001		79016
+	285172445	Pistol-002	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Pistol\Pistol-002_74E4717D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Pistol\Pistol-002		63044
+	326332570	Track	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Estilo The Coat_E12CA538.wem		\Interactive Music Hierarchy\Default Work Unit\Music\The Coat Style\Intro\Track		2157308
+	385970773	Track	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Encuentro Hermano_E12CA538.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Brother\Intro\Track		730378
+	608419484	Pistol-003	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Pistol\Pistol-003_EC205B35.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Pistol\Pistol-003		63208
+	634800145	Chopin Valse Brillante	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\The World Spins_E12CA538.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Twin Peaks\Intro\Chopin Valse Brillante		5645699
+	830480918	Shotgun-003	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Shotgun\Shotgun-003_4F829571.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Shotgun\Shotgun-003		85364
+	843393935	Pistol-004	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Pistol\Pistol-004_14B9685A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Pistol\Pistol-004		50268
+	849086895	Chopin Valse Brillante	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Chopin Valse Brillante Op.34 No.2_E12CA538.wem		\Interactive Music Hierarchy\Default Work Unit\Music\ValseBrillante\Intro\Chopin Valse Brillante		5007248
+	914150445	Pistol-005	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Pistol\Pistol-005_1C87736D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Pistol\Pistol-005		63068
+	938907202	Pistol-006	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Pistol\Pistol-006_F82F0FAC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Pistol\Pistol-006		62948
+	959770918	Shotgun-002	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Shotgun\Shotgun-002_DE2194F6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Shotgun\Shotgun-002		82132
+	1050000310	Pistol-001	G:\Wwise-Projects\No Quieras Olvidarme\.cache\Windows\SFX\Pistol\Pistol-001_8178C3CA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guns\Pistol\Pistol-001		42332
+

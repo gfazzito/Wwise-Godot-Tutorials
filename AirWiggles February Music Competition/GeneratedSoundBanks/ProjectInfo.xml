@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="No Quieras Olvidarme" GUID="{2E1DED39-181D-4B99-A673-F84DE42137B8}" Generator="2023.1.1.8417"/>
+	<CacheRoot>../../../../Wwise-Projects/No Quieras Olvidarme/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android" GUID="{3DA2EBD5-D92B-4B1C-B26D-B21DE10E3017}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="Android"/>
+		<Platform Name="Windows" GUID="{645DE3C0-4778-4F14-9FBD-67A466D6681B}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{5E669414-FC78-4CAD-9A17-827D4575D2A4}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{CE16D42F-8A1D-60F1-1D1F-847FE6ECAC43}</FileHash>
+</ProjectInfo>
