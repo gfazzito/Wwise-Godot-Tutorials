@@ -1,5 +1,5 @@
 # Wwise - Godot Tutorials
-Here you will find projects for the series of videos
+Here you will find projects for the videos.
 
 # Important
 Keep in mind that you´ll need to download and add manually the Addon for Wwise. For that, you can follow [this tutorial.](https://youtu.be/0H0PjuFgRnk)
